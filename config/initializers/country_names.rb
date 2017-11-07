@@ -42,6 +42,7 @@ module I18nData
       'PT-BR' => 'pt',
       'SL-SI' => 'sl',
       'ZH-TW' => 'zh_TW',
+      'ZH-HK' => 'zh_HK',
       'ZH-CN' => 'zh_CN',
       'ZH' => 'zh_CN',
       'BN' => 'bn_IN'
