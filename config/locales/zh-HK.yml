@@ -634,7 +634,7 @@ zh-HK:
       available_locales: "可用語系"
       language: "語言"
       localization_settings: "在地化設定"
-      this_file_language: "中文繁體 (香港)"
+      this_file_language: "繁體中文 (香港)"
     icon: "圖示"
     identifier:
     image: "圖片"
